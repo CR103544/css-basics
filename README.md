@@ -1,1 +1,1 @@
-# css-basics
+# css-cheat-sheet
